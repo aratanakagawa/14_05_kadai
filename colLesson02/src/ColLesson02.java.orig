@@ -34,9 +34,11 @@ public class ColLesson02 {
 
         int t;
         for(t=0;t<i;t++){
-
+<<<<<<< HEAD
             System.out.println(words[t]);
-
+=======
+            System.out.println(words[t].toString());
+>>>>>>> origin/master
         }
         System.out.println(t+"件、登録しました。");
     }

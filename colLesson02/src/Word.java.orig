@@ -22,10 +22,11 @@ public class Word {
 //    }
 
     public String toString(){
-
+<<<<<<< HEAD
         String str = "単語:"+this.word+" 意味:"+this.meaning;
         return str;
-
-
+=======
+        return "単語:"+this.word+" 意味:"+this.meaning;
+>>>>>>> origin/master
     }
 }
